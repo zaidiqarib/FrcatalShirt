@@ -22,6 +22,8 @@ Ensure you have Python installed, then install the required Python packages usin
 pip install numpy matplotlib
 and then run the the file python.py
 
-<img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/8465d6c1-2038-4392-95b8-8c6171278aae" />
-<img width="790" height="788" alt="fractal1" src="https://github.com/user-attachments/assets/560b203d-70a0-487c-b1ca-6851f9f9bd6e" />
+# OUTPUT
+<img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/3a40ee12-e281-4ece-b6bb-2e9a87ab1464" />
+
+<img width="790" height="788" alt="fractal1" src="https://github.com/user-attachments/assets/e39c5812-65bf-4c07-b7ec-741d93afea98" />
 
