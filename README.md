@@ -27,3 +27,6 @@ and then run the the file python.py
 
 <img width="255" height="227" alt="fractal1" src="https://github.com/user-attachments/assets/e39c5812-65bf-4c07-b7ec-741d93afea98" />
 
+## Student Details
+Name: Qarib Hasan
+CMS ID: 543318
